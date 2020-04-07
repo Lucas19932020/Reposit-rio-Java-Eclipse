@@ -11,7 +11,4 @@ public class Atividade_11 {
 		System.out.println(x+y);
 	}
 }
-/*A saída é:
- * Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 0
- *	at uscs.Atividade_11.main(Atividade_11.java:6)
- */
+//A saída é: 893 

@@ -10,7 +10,5 @@ public class Atividade_08 {
 		System.out.println(S1+S2+S3);
 	}
 }
-/*
- * Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 1
- * at uscs.Atividade_08.main(Atividade_08.java:6) 
- */
+//A saída é: abxy***xy***
+ 

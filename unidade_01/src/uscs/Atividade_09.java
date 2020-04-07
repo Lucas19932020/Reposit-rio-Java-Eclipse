@@ -11,7 +11,4 @@ public class Atividade_09 {
 	}
 
 }
-/*A saída é:
- * Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 0
- * at uscs.Atividade_09.main(Atividade_09.java:6)
- */
+//A saída é: uscscompuscsCOMPUSCS

@@ -14,6 +14,5 @@ public class Atividade_43 {
 			System.out.println("Valor encontrado...");
 	}
 }
-/* A saída é: Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 0
- * at uscs.Atividade_43.main(Atividade_43.java:10)
- */
+//A saída é: Valor encontrado... 
+

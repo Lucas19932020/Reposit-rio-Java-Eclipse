@@ -18,7 +18,4 @@ public class Atividade_19 {
 		System.out.println(trab);
 	}
 }
-/*A saída é:
- * Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 0
- * at uscs.Atividade_19.main(Atividade_19.java:6)
- */
+//A saída é: 8 
